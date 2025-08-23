@@ -1,2 +1,2 @@
 # CISP-430---Data-Structures
-will update
+Activities/Assignments/Projects that I have done in my CISP 430 - Data Structures Class
